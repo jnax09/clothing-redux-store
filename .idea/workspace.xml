@@ -25,19 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c14570a1-0e16-4668-8bfc-f9bde517d33c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/error-boundary/error-boundary.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/spinner/spinner.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/spinner/spinner.styles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/shop/shop.styles.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/cart-item/cart-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/cart-item/cart-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/with-spinner/with-spinner.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/with-spinner/with-spinner.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/with-spinner/with-spinner.styles.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/homepage/homepage.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/homepage/homepage.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/shop/shop.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598081684291</updated>
       <workItem from="1598081685460" duration="3703000" />
-      <workItem from="1598086013335" duration="4776000" />
+      <workItem from="1598086013335" duration="5192000" />
     </task>
     <servers />
   </component>
