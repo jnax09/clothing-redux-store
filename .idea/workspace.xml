@@ -26,9 +26,27 @@
   <component name="ChangeListManager">
     <list default="true" id="c14570a1-0e16-4668-8bfc-f9bde517d33c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Astronaut-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Balloon Lost-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Boat Leak-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Broken Clock-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Broken Mug-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Burnt Toast-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Caution Tape-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Dog Ate-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Ghost-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Ice Cream Spill-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Kid_s Toy-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Loch Ness-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Lost Keys-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Lost Tourist-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Ostrich-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Pizza Box-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Shoes Tied-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Spilled Milk-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Trash-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/1600w/Tree Stump-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/homepage/homepage.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/homepage/homepage.component.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598081684291</updated>
       <workItem from="1598081685460" duration="3703000" />
-      <workItem from="1598086013335" duration="5192000" />
+      <workItem from="1598086013335" duration="6361000" />
     </task>
     <servers />
   </component>
@@ -101,10 +119,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1659" height="258" key="GridCell.Tab.0.right/1680.23.1920.1005/0.23.1680.975@0.23.1680.975" timestamp="1598081763505" />
-    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1598091247327">
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1598093380569">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/1680.23.1920.1005/0.23.1680.975@0.23.1680.975" timestamp="1598085078268" />
-    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.975@0.23.1680.975" timestamp="1598091247327" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.975@0.23.1680.975" timestamp="1598093380569" />
   </component>
 </project>

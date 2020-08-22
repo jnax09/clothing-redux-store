@@ -1,15 +1,19 @@
-import React from 'react';
+import React, {unstable_Profiler as Profiler} from 'react';
 
 import Directory from '../../components/directory/directory.component';
 
 import { HomePageContainer } from './homepage.styles';
 
-const HomePage = () => {
-    return (
+const HomePage = () =>
+     (
         <HomePageContainer>
-            <Directory/>
+            <Profiler id="Directory" onRender={(id, phase, actualDuration) => {
+                console.log({id, phase, actualDuration});
+            }}>
+                <Directory/>
+            </Profiler>
         </HomePageContainer>
     )
-}
+
 
 export default HomePage;
